@@ -1,2 +1,3 @@
 # COSE213
-자료구조
+2020년 1학기\
+자료구조 @ Korea University
